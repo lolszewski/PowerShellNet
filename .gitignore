@@ -1,0 +1,6 @@
+/packages
+/PowerShellNet/obj
+/PowerShellNet/bin
+/PowerShellNet.Tests/bin
+/PowerShellNet.Tests/obj
+.vs/PowerShellNet/v14/.suo

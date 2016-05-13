@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerShellNet", "PowerShellNet\PowerShellNet.csproj", "{EB94D1F3-8CC5-4978-9351-9939ED07ACE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerShellNet.Tests", "PowerShellNet.Tests\PowerShellNet.Tests.csproj", "{93D79188-4AD4-413A-9F7E-FBED6DBB6E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB94D1F3-8CC5-4978-9351-9939ED07ACE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB94D1F3-8CC5-4978-9351-9939ED07ACE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB94D1F3-8CC5-4978-9351-9939ED07ACE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB94D1F3-8CC5-4978-9351-9939ED07ACE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D79188-4AD4-413A-9F7E-FBED6DBB6E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D79188-4AD4-413A-9F7E-FBED6DBB6E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D79188-4AD4-413A-9F7E-FBED6DBB6E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D79188-4AD4-413A-9F7E-FBED6DBB6E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
